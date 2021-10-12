@@ -13,7 +13,7 @@
 
 # Manual de usuario
 
-Al ejecutar el programa, lo primero que se muestra es la ventana de login.
+Para poner en funcionamiento el software buscar el archivo ejecutable y ejecutarlo, lo primero que se muestra es la ventana de login.
 
 ## Login
 
@@ -41,13 +41,17 @@ Una vez definidos los parámetros, se ejecuta la búsqueda con el botón "Buscar
 
 Luego de unos segundos se muestra en pantalla una ventana con los resultados.
 
-<img src="https://i.ibb.co/z4h9qD3/resultado.png" />
+<img src="https://i.ibb.co/2vkj2GL/reporte.png" />
 
 ## Generar reporte
 
 Si el usuario lo desea, con el botón "Generar reporte" se crea un archivo de base de datos (sqlite) en el directorio del software que contiene la información de cada hotel que se muestra.
 
-<img src="https://i.ibb.co/DMyDXc7/reporte.png" />
+<img src="https://i.ibb.co/2vkj2GL/reporte.png" />
+
+## Ordernar por precio
+
+Se pueden ordenar los resultados por precio, haciendo clic en el botón "Ordenar por precio" actualizando la vista en la interfaz.
 
 
 
